@@ -14,7 +14,7 @@ static int GetSelection(NSString *key) {
 }
 static const NSInteger uYouPlusSection = 500;
 
-@interface YTSettingsSectionItemManager (uYouPlus)
+@interface YTSettingsSectionItemManager (uYouPlus-iVanced)
 - (void)updateTweakSectionWithEntry:(id)entry;
 @end
 
