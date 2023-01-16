@@ -46,7 +46,7 @@ extern NSBundle *uYouPlusBundle();
     accessibilityIdentifier:nil
     detailTextBlock:nil
     selectBlock:^BOOL (YTSettingsCell *cell, NSUInteger arg1) {
-        return [%c(YTUIUtils) openURL:[NSURL URLWithString:@"https://github.com/qnblackcat/uYouPlus/releases/latest"]];
+        return [%c(YTUIUtils) openURL:[NSURL URLWithString:@"https://github.com/TherionRO/YouTubeiVanced/releases/latest"]];
     }];
     [sectionItems addObject:version];
 
