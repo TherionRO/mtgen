@@ -7,7 +7,7 @@ FINALPACKAGE = 1
 CODESIGN_IPA = 0
 PACKAGE_VERSION = 18.01.6~2
 
-TWEAK_NAME = uYouPlus
+TWEAK_NAME = iVanced
 DISPLAY_NAME = YouTube
 BUNDLE_ID = com.google.ios.youtube
  
